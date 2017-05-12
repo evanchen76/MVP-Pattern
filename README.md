@@ -3,10 +3,10 @@
 ### Sample：Login
 ![alt text](http://1.bp.blogspot.com/-TUOQoQYdUpo/WRVkjFRt8AI/AAAAAAAAJ1g/PvwTRg5P0Mwv1OTA-aD9qYn0ons90TwrwCK4B/s1600/Image.png)
 
-- Create LoginActivty , it's MVP View
+- Create LoginActivty , MVP:View
 - Create LoginContract ，ILoginView、ILoginPresenter 2 Interface
-- Create LoginPresenter，Business Logic。
-- Create User Model，
+- Create LoginPresenter，MVP:Presenter, Business Logic。
+- Create User，MVP:Model，
 
 ![alt text](http://1.bp.blogspot.com/-RsMDMXNqqIE/WRVknn_HgnI/AAAAAAAAJ1o/6pRFUN602DknRnVC5YYD_QwdgoH0I5xoQCK4B/s1600/Image.png)
 
